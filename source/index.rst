@@ -14,7 +14,7 @@ Welcome to the algorithm documentation! Here you will find information related t
 
    第5章_树与二叉树/5.1树的基本概念/选择题
    第5章_树与二叉树/5.1树的基本概念/选择题答案
-   第7章_查找/7.1查找的基本概念_7.2线性表的查找
+   第7章_查找/7.1查找的基本概念and线性表的查找
    第7章_查找/7.3树表的查找
 
 * :ref:`genindex`
